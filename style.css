@@ -1,0 +1,86 @@
+
+.figma{
+    position: absolute;
+    top: 80px;
+    left: 125px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  
+}
+
+.dark-bg{
+    height: 550px;
+    width: 550px;
+    background: radial-gradient(rgb(70, 70, 70), rgb(7, 7, 7));
+    border-radius: 60px;
+    position: relative;
+}
+
+.dark-bg .left-tablet{
+    height:130px;
+    width: 150px;
+    background-image: linear-gradient(#f24e1e,#ee714b,#f24e1e);
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-right: 250px;
+}
+
+.dark-bg .right-tablet{
+    height:130px;
+    width: 150px;
+    background-image: linear-gradient(#ff7262,#f88478,#ff7262);
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: 150px;
+}
+
+.dark-bg .second-left-tablet{
+    height:130px;
+    width: 150px;
+    background-image: linear-gradient(#a259ff,#bc94f0,#a259ff);
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    left: 0;
+    right: 0;
+    top: 150px;
+    bottom: 0;
+    margin-right: 250px;
+}
+
+.dark-bg .second-right-tablet{
+    height:140px;
+    width: 140px;
+    background-image: linear-gradient(#1abcfe,#8fd8f5,#1abcfe);
+    border-radius: 170px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 130px;
+    bottom: 0;
+    margin-left: 150px;
+}
+
+.dark-bg .third-left-tablet{
+    height:130px;
+    width: 150px;
+    background-image: linear-gradient(#0acf83,#52f1b4,#0acf83);
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 120px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 260px;
+    bottom: 0;
+    margin-right: 250px;
+}
